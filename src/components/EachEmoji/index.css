@@ -1,0 +1,29 @@
+.game-emojis-container {
+  width: 150px;
+  height: 150px;
+  top: 212px;
+  left: 1020px;
+  gap: 0px;
+  border-radius: 24px;
+  background: #ffffff33;
+  border: 3px solid #ffffff30;
+  backdrop-filter: blur(20px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.each-emoji-icon-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.game-emoji-icon {
+  width: 80px;
+  height: 80px;
+  top: 268px;
+  left: 243px;
+  gap: 0px;
+  opacity: 0px;
+}
